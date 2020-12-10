@@ -1,0 +1,5 @@
+{
+    "costco_url": "costco_product_url",
+    "minutes_til_log": 30,
+    "sec_til_refresh": 5
+}
