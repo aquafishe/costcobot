@@ -1,9 +1,9 @@
-#Costco Stock Bot
+# Costco Stock Bot
 * **Requirements**: NodeJS, Chrome browser
 * **Description**: This program will check the Costco website if a product is in stock. When the product is found in stock the program will automatically open a new Chrome browser to the product link.
 ***
 
-###Setup
+### Setup
 Update **config.json** with your own options:
 ```sh
 {
